@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="4" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="1" edit-time="0" last-saved="1563442610" uid="91c2d3a4-a93f-11e9-91ac-e891260603b2">
+<version id="1" started="1563442610" uid="91c4aa58-a93f-11e9-91ac-e891260603b2" auto="0" top-xid="4"/>
+</history>
+<styles>
+<s type="C" name="Default Paragraph Font" basedon="Normal"/>
+<s type="P" name="No List" basedon="Normal"/>
+<s type="P" name="Normal" basedon="Normal" followedby="Current Settings" props="lang:ar-SA; font-size:12.000000pt; font-family:Times New Roman"/>
+<s type="P" name="Normal Table" basedon="Normal"/>
+<s type="P" name="_Normal" basedon="Normal"/>
+</styles>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section xid="1" props="page-margin-right:1.250000in; column-line:off; page-margin-left:1.250000in; columns:1; page-margin-top:1.000000in; page-margin-bottom:1.000000in">
+<p xid="2">This is a test<bookmark type="start" name="_GoBack" xid="3"/><bookmark type="end" name="_GoBack" xid="4"/></p>
+</section>
+</abiword>
